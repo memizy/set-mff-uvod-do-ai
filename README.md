@@ -29,9 +29,9 @@ Tento repozitář obsahuje komplexní studijní data ve formátu **OQSE** (Open 
 
 Sada systematicky mapuje celou osnovu předmětu a nabízí detailní vysvětlení algoritmů, logiky a principů umělé inteligence. Místo hledání ve skriptech tu máte vše podstatné na jednom místě.
 
-* **Autor:** Nákladní sbor FFS MFF
+* **Autor:** Student MFF UK
 * **Typ položek:** `note` (Studijní poznámky a výpisky)
-* **Odhadovaný čas studia:** ~215 minut
+* **Odhadovaný čas studia:** ~900 minut
 * **Pokrytá témata:** Inteligentní agenti, prohledávání (A*, BFS, DFS), uspokojování omezujících podmínek (CSP), výroková logika, automatizované plánování, pravděpodobnostní usuzování (Bayesovy sítě, HMM), teorie rozhodování (MDP), adversariální prohledávání a základy strojového učení.
 * **Formátování:** Sada hojně využívá Markdown a LaTeX pro přesný zápis matematických vzorců a logických definic.
 

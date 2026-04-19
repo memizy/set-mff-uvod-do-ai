@@ -1,12 +1,12 @@
 {
-  "$schema": "https://raw.githubusercontent.com/memizy/oqse-specification/main/schemas/v0.json",
+  "$schema": "https://raw.githubusercontent.com/memizy/oqse-specification/main/schemas/oqse-v0.1.json",
   "version": "0.1",
   "meta": {
     "id": "44a2c6d7-aca4-426a-b2f3-cf0d05901b33",
     "title": "Úvod do umělé inteligence (MFF - NAIL120)",
     "description": "Komplexní sada otázek a poznamá z přednášky Úvod do umělé inteligence (NAIL120) na MFF UK, pokrývající klíčové koncepty, algoritmy a techniky v oblasti AI, včetně agentů, prohledávání, CSP a logiky.",
     "author": {
-      "name": "Nákladní sbor FFS MFF"
+      "name": "Student MFF UK"
     },
     "subject": "Umělá inteligence",
     "language": "cs",
