@@ -5,7 +5,9 @@
     "id": "44a2c6d7-aca4-426a-b2f3-cf0d05901b33",
     "title": "Úvod do umělé inteligence (MFF - NAIL120)",
     "description": "Komplexní sada otázek a poznamá z přednášky Úvod do umělé inteligence (NAIL120) na MFF UK, pokrývající klíčové koncepty, algoritmy a techniky v oblasti AI, včetně agentů, prohledávání, CSP a logiky.",
-    "author": "Nákladní sbor FFS MFF",
+    "author": {
+      "name": "Nákladní sbor FFS MFF"
+    },
     "subject": "Umělá inteligence",
     "language": "cs",
     "tags": [
@@ -19,8 +21,8 @@
       "Rozhodování",
       "Učení"
     ],
-    "createdAt": "2026-03-01T11:19:09.355663Z",
-    "updatedAt": "2026-03-01T11:19:09.355663Z",
+    "createdAt": "2026-03-01T11:19:09Z",
+    "updatedAt": "2026-03-01T11:19:09Z",
     "estimatedTime": 215,
     "requirements": {
       "features": [

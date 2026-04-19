@@ -15,6 +15,14 @@ Komplexní studijní sada pro [Memizy Ecosystem](https://github.com/memizy/memiz
 
 ---
 
+## 🔗 Odkaz na sadu
+
+**[https://cdn.jsdelivr.net/gh/memizy/set-mff-uvod-do-ai@main/data.oqse.json](https://cdn.jsdelivr.net/gh/memizy/set-mff-uvod-do-ai@main/data.oqse.json)**
+
+_Zkopíruj tento odkaz do aplikace Memizy a okamžitě začni učit se!_
+
+---
+
 ## 📖 O sadě
 
 Tento repozitář obsahuje komplexní studijní data ve formátu **OQSE** (Open Question Set Exchange). 
