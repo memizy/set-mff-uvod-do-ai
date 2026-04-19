@@ -15,7 +15,7 @@ Komplexní studijní sada pro [Memizy Ecosystem](https://github.com/memizy/memiz
 
 ---
 
-## 🔗 Odkaz na sadu
+## 🔗 Odkaz na sadu (Raw Data)
 
 **[https://cdn.jsdelivr.net/gh/memizy/set-mff-uvod-do-ai@main/data.oqse.json](https://cdn.jsdelivr.net/gh/memizy/set-mff-uvod-do-ai@main/data.oqse.json)**
 
@@ -38,7 +38,7 @@ Sada systematicky mapuje celou osnovu předmětu a nabízí detailní vysvětlen
 ## 🚀 Jak sadu používat
 
 Sada je plně kompatibilní s ekosystémem Memizy. Pro spuštění nemusíte nic manuálně stahovat. Stačí si v aplikaci Memizy otevřít import a vložit přímý odkaz na data této sady:
-`https://cdn.jsdelivr.net/gh/memizy/set-mff-uvod-do-ai@main/data.oqse.json`
+[https://cdn.jsdelivr.net/gh/memizy/set-mff-uvod-do-ai@main/data.oqse.json](https://cdn.jsdelivr.net/gh/memizy/set-mff-uvod-do-ai@main/data.oqse.json)
 
 ## ⚖️ Licence
 
